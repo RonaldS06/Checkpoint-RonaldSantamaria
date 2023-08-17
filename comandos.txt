@@ -1,0 +1,30 @@
+  501  touch main.js index.html
+  502  git add .
+  503  git commit -m "commit de Ronald Santamaria"
+  504  git remote add origin https://github.com/RonaldS06/Checkpoint-RonaldSantamaria.git
+  505  git push origin main
+  506  git branch feature
+  507  git branch
+  508  git checkout feature
+  509  git branch
+  510  mkdir Hardware Software Seguridad informatica
+  511  rm informatica
+  512  rmdir informatica
+  513  mv Seguridad "Seguridad Informatica"
+  514  touch resumen.txt
+  515  history 3 > resumen.txt
+  516  resumen.txt
+  517  touch resumen.txt
+  518  touch resumen.txt
+  519  git push origin feature
+  520  git add .
+  521  git add .
+  522  git commit -m "commit 02 Ronald Santamaria"
+  523  git push origin feature
+  524  git checkout main
+  525  git branch
+  526  mv main.js resumenHardware.txt
+  527  mv index.html resumenSoftware.txt
+  528  cd resumenHardware.txt 
+  529  touch comandos.txt
+  530  history 30 > comandos.txt
